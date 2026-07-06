@@ -5,9 +5,9 @@ class Solution(object):
         for i in nums:
             if(i==1):
                 cur+=1
+                ma=max(ma,cur)
             else: 
                 cur=0
-            ma=max(ma,cur)
         return ma
                         
         
