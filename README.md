@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/liz-ab/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/liz-ab/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2785-sort-vowels-in-a-string](https://github.com/liz-ab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
+| [2785-sort-vowels-in-a-string](https://github.com/liz-ab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
