@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/liz-ab/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/liz-ab/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/liz-ab/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liz-ab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/liz-ab/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/liz-ab/leetcode/tree/master/0231-power-of-two) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/liz-ab/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
