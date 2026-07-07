@@ -7,8 +7,6 @@ class Solution(object):
             digit=min(9,sum)
             res=res+str(digit)
             sum-=digit
-        if sum!=0:
-            return ""
         return res
 
         
