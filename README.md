@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/liz-ab/leetcode/tree/master/1544-make-the-string-great) |
 | [2785-sort-vowels-in-a-string](https://github.com/liz-ab/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/liz-ab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/liz-ab/leetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
