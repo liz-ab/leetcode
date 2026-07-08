@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/liz-ab/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/liz-ab/leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liz-ab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/liz-ab/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/liz-ab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/liz-ab/leetcode/tree/master/1544-make-the-string-great) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/liz-ab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
