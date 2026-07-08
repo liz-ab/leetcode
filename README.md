@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/liz-ab/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/liz-ab/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/liz-ab/leetcode/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/liz-ab/leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/liz-ab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/liz-ab/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/liz-ab/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/liz-ab/leetcode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/liz-ab/leetcode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/liz-ab/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
