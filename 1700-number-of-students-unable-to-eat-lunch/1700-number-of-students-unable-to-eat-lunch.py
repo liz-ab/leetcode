@@ -2,7 +2,7 @@ class Solution(object):
     def countStudents(self, st, sa):
         stack=[]
         c=0
-        length=len(st)*len(sa)
+        length=(len(st)*len(sa))//2
         while(c!=length):
             if(len(st)==0):
                 return 0
