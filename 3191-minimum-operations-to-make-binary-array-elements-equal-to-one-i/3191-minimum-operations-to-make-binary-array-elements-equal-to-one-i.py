@@ -8,11 +8,9 @@ class Solution(object):
                 l=l+1
                 nums[l]=1-nums[l]
                 nums[k]=1-nums[k]
-                k=k+1
-                c+=1
+                k,c=k+1,c+1
             else:
-                l+=1
-                k+=1
+                l,k=l+1,k+1
         while(l<len(nums)):
             if(nums[l]==1):
                 l+=1
