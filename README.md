@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/liz-ab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/liz-ab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/liz-ab/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/liz-ab/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/liz-ab/leetcode/tree/master/0231-power-of-two) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/liz-ab/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Design
 |  |
 | ------- |
