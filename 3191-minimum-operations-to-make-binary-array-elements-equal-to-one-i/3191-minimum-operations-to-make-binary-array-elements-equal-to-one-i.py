@@ -6,8 +6,8 @@ class Solution(object):
         while(k<len(nums)):
             if(nums[l]==0):
                 l=l+1
-                nums[l]=abs(1-nums[l])
-                nums[k]=abs(1-nums[k])
+                nums[l]=1-nums[l]
+                nums[k]=1-nums[k]
                 k=k+1
                 c+=1
             else:
