@@ -15,7 +15,6 @@ class Solution(object):
                 k+=1
         while(l<len(nums)):
             if(nums[l]==1):
-                nums[l]=None
                 l+=1
             else:
                 return -1
