@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/liz-ab/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/liz-ab/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liz-ab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/liz-ab/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/liz-ab/leetcode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/liz-ab/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
