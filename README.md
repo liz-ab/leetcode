@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/liz-ab/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liz-ab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/liz-ab/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/liz-ab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/liz-ab/leetcode/tree/master/0283-move-zeroes) |
@@ -145,11 +146,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/liz-ab/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/liz-ab/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/liz-ab/leetcode/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/liz-ab/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/liz-ab/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/liz-ab/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
