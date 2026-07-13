@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/liz-ab/leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
