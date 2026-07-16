@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/liz-ab/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/liz-ab/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/liz-ab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/liz-ab/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/liz-ab/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/liz-ab/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/liz-ab/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/liz-ab/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/liz-ab/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/liz-ab/leetcode/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/liz-ab/leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/liz-ab/leetcode/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
