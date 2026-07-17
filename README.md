@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/liz-ab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/liz-ab/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/liz-ab/leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/liz-ab/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/liz-ab/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/liz-ab/leetcode/tree/master/0162-find-peak-element) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/liz-ab/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/liz-ab/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/liz-ab/leetcode/tree/master/0338-counting-bits) |
