@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liz-ab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/liz-ab/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/liz-ab/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/liz-ab/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/liz-ab/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/liz-ab/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/liz-ab/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/liz-ab/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/liz-ab/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/liz-ab/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/liz-ab/leetcode/tree/master/0326-power-of-three) |
@@ -438,4 +440,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/liz-ab/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/liz-ab/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/liz-ab/leetcode/tree/master/0052-n-queens-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/liz-ab/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/liz-ab/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
