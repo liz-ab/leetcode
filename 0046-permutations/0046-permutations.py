@@ -8,7 +8,7 @@ class Solution:
                 return
             for i in nums:
                 if check[i]:
-                    continue 
+                    continue
                 check[i]=True
                 current.append(i)
                 backtrack(current,check)
