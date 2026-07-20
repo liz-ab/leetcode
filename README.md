@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/liz-ab/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/liz-ab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/liz-ab/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/liz-ab/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/liz-ab/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/liz-ab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/liz-ab/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
