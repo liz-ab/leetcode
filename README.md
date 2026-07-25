@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/liz-ab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/liz-ab/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-find-missing-elements](https://github.com/liz-ab/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/liz-ab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/liz-ab/leetcode/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/liz-ab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/liz-ab/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/liz-ab/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Dynamic Programming
 |  |
