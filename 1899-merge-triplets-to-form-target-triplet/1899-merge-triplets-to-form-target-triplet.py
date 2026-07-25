@@ -1,0 +1,11 @@
+class Solution(object):
+    def mergeTriplets(self, triplets, target):
+        good=set()
+        for t in triplets:
+            if t[0]>target[0] or t[1]>target[1] or t[2]>target[2]:
+                continue
+            for i,n in enumerate(t):
+                if n==target[i]:
+                    good.add(i)
+        return len(good)==3
+        
