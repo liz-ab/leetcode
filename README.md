@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/liz-ab/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/liz-ab/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/liz-ab/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/liz-ab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/liz-ab/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/liz-ab/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/liz-ab/leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/liz-ab/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/liz-ab/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
