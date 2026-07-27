@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/liz-ab/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/liz-ab/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/liz-ab/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/liz-ab/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/liz-ab/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/liz-ab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/liz-ab/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/liz-ab/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/liz-ab/leetcode/tree/master/0455-assign-cookies) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/liz-ab/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/liz-ab/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/liz-ab/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/liz-ab/leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/liz-ab/leetcode/tree/master/0763-partition-labels) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/liz-ab/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liz-ab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/liz-ab/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/liz-ab/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
