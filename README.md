@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/liz-ab/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/liz-ab/leetcode/tree/master/1929-concatenation-of-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/liz-ab/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3731-find-missing-elements](https://github.com/liz-ab/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/liz-ab/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/liz-ab/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1929-concatenation-of-array](https://github.com/liz-ab/leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
