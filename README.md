@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/liz-ab/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/liz-ab/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/liz-ab/leetcode/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/liz-ab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/liz-ab/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/liz-ab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/liz-ab/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/liz-ab/leetcode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/liz-ab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/liz-ab/leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/liz-ab/leetcode/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/liz-ab/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/liz-ab/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/liz-ab/leetcode/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/liz-ab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/liz-ab/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/liz-ab/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/liz-ab/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/liz-ab/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/liz-ab/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/liz-ab/leetcode/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/liz-ab/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/liz-ab/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/liz-ab/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/liz-ab/leetcode/tree/master/0844-backspace-string-compare) |
