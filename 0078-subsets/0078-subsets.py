@@ -1,7 +1,16 @@
 class Solution(object):
     def subsets(self, nums):
-        ret=[[]]
-        for n in nums:
-            ret+=[r+[n] for r in ret]
-        return ret
+        subset=[]
+        res=[]
+        def dfs(i):
+            if i>=len(nums):
+                res.append(subset[:])
+                return
+            subset.append(nums[i])
+            dfs(i+1)
+            subset.pop()
+            dfs(i+1)
+        dfs(0)
+        return res
+
         
