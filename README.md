@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/liz-ab/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/liz-ab/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/liz-ab/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/liz-ab/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/liz-ab/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/liz-ab/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/liz-ab/leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -627,4 +631,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/liz-ab/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
