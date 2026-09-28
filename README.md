@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/liz-ab/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/liz-ab/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/liz-ab/leetcode/tree/master/0684-redundant-connection) |
 | [1584-min-cost-to-connect-all-points](https://github.com/liz-ab/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/liz-ab/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/liz-ab/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/liz-ab/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/liz-ab/leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/liz-ab/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/liz-ab/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/liz-ab/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/liz-ab/leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/liz-ab/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/liz-ab/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
