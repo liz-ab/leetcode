@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/liz-ab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/liz-ab/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/liz-ab/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1306-jump-game-iii](https://github.com/liz-ab/leetcode/tree/master/1306-jump-game-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/liz-ab/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/liz-ab/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/liz-ab/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/liz-ab/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
+| [1306-jump-game-iii](https://github.com/liz-ab/leetcode/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/liz-ab/leetcode/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/liz-ab/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/liz-ab/leetcode/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/liz-ab/leetcode/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/liz-ab/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/liz-ab/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
