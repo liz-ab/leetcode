@@ -3,7 +3,6 @@ class Solution:
         q=deque()
         l=len(arr)
         q.append(start)
-        visit=set()
         while q:
             i=q.popleft()
             if arr[i]<0:
