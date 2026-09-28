@@ -1,21 +1,21 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: list[list[int]]) -> bool:
         graph={i:[] for i in range(numCourses)}
-        indegree=[0]*numCourses
         for cor,pre in prerequisites:
-            graph[pre].append(cor)
-            indegree[cor]+=1
-        q=deque()
+            graph[cor].append(pre)
+        visit=set()
+        def dfs(crs):
+            if crs in visit:
+                return False
+            if graph[crs]==[]:
+                return True
+            visit.add(crs)
+            for pre in graph[crs]:
+                if not dfs(pre): return False
+            visit.remove(crs)
+            graph[crs]=[]
+            return True
         for i in range(numCourses):
-            if indegree[i]==0:
-                q.append(i)
-        order=[]
-        while(q):
-            node=q.popleft()
-            order.append(node)
-            for neigh in graph[node]:
-                indegree[neigh]-=1
-                if indegree[neigh]==0:
-                    q.append(neigh)
-        return True if len(order)==numCourses else False
-
+            if not dfs(i):
+                return False
+        return True
