@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/liz-ab/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/liz-ab/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/liz-ab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/liz-ab/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/liz-ab/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/liz-ab/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/liz-ab/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/liz-ab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/liz-ab/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/liz-ab/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/liz-ab/leetcode/tree/master/0704-binary-search) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/liz-ab/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/liz-ab/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/liz-ab/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/liz-ab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/liz-ab/leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/liz-ab/leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/liz-ab/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -665,4 +668,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/liz-ab/leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/liz-ab/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
